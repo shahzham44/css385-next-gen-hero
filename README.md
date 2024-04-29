@@ -1,2 +1,2 @@
-# css385-next-gen-hero
+# Next Generation Hero
 WebGL Link: 
